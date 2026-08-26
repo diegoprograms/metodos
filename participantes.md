@@ -15,3 +15,9 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 - **Nombre:Diego Ramirez
 - **Programa Ambiental
 - **Quiero aprender: Si muchisimo
+
+## Agregue su información aquí
+
+-  **Nombre: Juan Carlos Leon Ramos
+- **Programa: Ingeniería Ambiental
+- **Quiero aprender: Quiero aprender a manejar la plataforma con fluidez y saber de que trata cada cosa
