@@ -12,6 +12,12 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 
 ## Agregue su información aquí
 
-- **Nombre:Diego Ramirez
-- **Programa Ambiental
-- **Quiero aprender: Si muchisimo
+- **Nombre:**
+- **Programa:**
+- **Quiero aprender:**
+
+- ## Agregue su información aquí
+
+- **Nombre:** Dayan Camila Cortes Barbosa
+- **Programa:** Ingeniería AMbiental
+- **Quiero aprender:** Quiero prender a manejar los codigos de una manera fluida 
