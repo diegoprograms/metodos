@@ -15,3 +15,10 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 - **Nombre:Diego Ramirez
 - **Programa Ambiental
 - **Quiero aprender: Si muchisimo
+
+
+## Agregue su información aquí
+
+- **Nombre:** Leydy Andrea Salinas Díaz
+- **Programa:** Ingeniería Ambiental
+- **Quiero aprender:** Programación para manejar nuevas herramientas
