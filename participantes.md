@@ -4,7 +4,7 @@ Cada estudiante debe agregar su información sin borrar la de sus compañeros.
 
 ## Ejemplo
 
-- **Nombre:** Ana Pérez
+- **Nombre:** Camila
 - **Programa:** Ingeniería Ambiental
 - **Quiero aprender:** A conservar el historial de un proyecto.
 
