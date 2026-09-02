@@ -49,3 +49,7 @@ repositorio_practica_github/
 └── src/
     └── resumen.py
 ```
+
+- Su nombre. DAYREN BARRETO
+- El programa académico al que pertenece. INGENIERIA AMBIENTAL
+- Una frase corta sobre lo que espera aprender de GitHub. SII
