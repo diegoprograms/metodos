@@ -28,3 +28,4 @@ else:
     print("La temperatura promedio es normal.")
     # editado por Jeison Vanegas 
 # juan estuvo aqui :p 
+# Juan Carlos estuvo aqui
