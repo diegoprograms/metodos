@@ -16,3 +16,4 @@ promedio = sum(temperaturas) / len(temperaturas)
 
 print(f"Número de mediciones: {len(temperaturas)}")
 print(f"Temperatura promedio: {promedio:.2f} °C")
+#juan herrera estuvo aqui._.
