@@ -1,4 +1,4 @@
-from pathlib import Path
+#from pathlib import Path
 import csv
 
 
@@ -31,3 +31,4 @@ else:
 # Juan Carlos estuvo aqui
 # David estuvo aqui
 # Adriana estuvo aqui
+# Jose estuvo aca
