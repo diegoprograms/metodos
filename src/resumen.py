@@ -26,3 +26,4 @@ if promedio > 25:
     print("La temperatura promedio es alta.")
 else:
     print("La temperatura promedio es normal.")
+    # editado por Jeison Vanegas 
