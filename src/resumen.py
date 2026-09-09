@@ -14,6 +14,17 @@ with ruta_datos.open(encoding="utf-8") as archivo:
 
 promedio = sum(temperaturas) / len(temperaturas)
 
+temperatura_maxima = max(temperaturas)
+temperatura_minima = min(temperaturas)
+
 print(f"Número de mediciones: {len(temperaturas)}")
 print(f"Temperatura promedio: {promedio:.2f} °C")
-#juan herrera estuvo aqui._.
+print(f"Temperatura máxima: {temperatura_maxima:.2f} °C")
+print(f"Temperatura mínima: {temperatura_minima:.2f} °C")
+
+if promedio > 25:
+    print("La temperatura promedio es alta.")
+else:
+    print("La temperatura promedio es normal.")
+    # editado por Jeison Vanegas 
+
